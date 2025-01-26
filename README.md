@@ -23,7 +23,15 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe src="https://www.loom.com/embed/6ebfa426db6f42498cfe23ed904c4f79" 
+        frameborder="0" 
+        webkitallowfullscreen 
+        mozallowfullscreen 
+        allowfullscreen 
+        title="Video Walkthrough" 
+        width="640" 
+        height="360">
+</iframe>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
